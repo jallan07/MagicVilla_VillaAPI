@@ -8,6 +8,11 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 app.UseSwagger();
-app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1"));
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "MagicVilla API");
+});
+
+app.MapControllers();
 app.UseHttpsRedirection();
 app.Run();
