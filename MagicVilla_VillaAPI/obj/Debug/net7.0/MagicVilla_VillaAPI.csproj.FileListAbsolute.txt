@@ -5,8 +5,12 @@
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.runtimeconfig.json
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.dll
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.pdb
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
