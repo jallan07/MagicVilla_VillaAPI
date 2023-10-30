@@ -35,3 +35,13 @@
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.pdb
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.genruntimeconfig.cache
 /Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/obj/Debug/net7.0/ref/MagicVilla_VillaAPI.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Users/joshallan/Desktop/code/udemy/MagicVilla_VillaAPI/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
