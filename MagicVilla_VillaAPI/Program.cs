@@ -1,5 +1,7 @@
 // using Serilog;
 
+using MagicVilla_VillaAPI;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Serilog implementation for logging
@@ -15,6 +17,7 @@ builder.Services.AddControllers(option =>
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSingleton<ILogging, LoggingV2>();
 
 var app = builder.Build();
 app.UseSwagger();
